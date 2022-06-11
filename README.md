@@ -1,7 +1,11 @@
 # comp-physics
 Projects and exams in the course TFY4235 Computational Physics 
 
-Results from exam
+
+
+Results from exam;
+
+
 Ferro- vs Antiferromagnetism
 
 
