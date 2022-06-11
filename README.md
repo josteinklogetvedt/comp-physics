@@ -1,3 +1,5 @@
 # comp-physics
 Projects and exams in the course TFY4235 Computational Physics 
-![Image](Exam/Images/many_PT_normed.png)
+
+Fractal Drum eigenstates
+![eigenstates](A1_Fractal_drums/Images/eig_mode_31.pdf)
