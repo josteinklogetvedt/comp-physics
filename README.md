@@ -1,5 +1,10 @@
 # comp-physics
 Projects and exams in the course TFY4235 Computational Physics 
 
-Fractal Drum eigenstates
-![eigenstates](A1_Fractal_drums/Images/eig_mode_31.pdf)
+From exam;
+
+Ferro- vs Antiferromagnetism
+![Magnetism](Exam_Magnons_and_magnetization/Images/chain_M.png)
+
+Phase transition with the Heisenberg model, with a magnetic field present
+![Phase_transition](Exam_Magnons_and_magnetization/Images/many_PT_normed.png)
